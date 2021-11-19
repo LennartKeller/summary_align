@@ -7447,6 +7447,13 @@ react-test-renderer@^16.11.0:
     react-is "^16.8.6"
     scheduler "^0.19.1"
 
+react-text-annotate@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/react-text-annotate/-/react-text-annotate-0.3.0.tgz#95b028ec7ea67a093d8dc30e99d1db93fdb69591"
+  integrity sha512-DSZnPp9QYOoPSi7Mwkq6I1/IA1i5ELcd6DhSUNs0lmSnAIKnv6oSOkd6E526I8kKaBTNh+sC6haU7EtaOdl8TA==
+  dependencies:
+    lodash.sortby "^4.7.0"
+
 react-transform-catch-errors@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/react-transform-catch-errors/-/react-transform-catch-errors-1.0.2.tgz#1b4d4a76e97271896fc16fe3086c793ec88a9eeb"
